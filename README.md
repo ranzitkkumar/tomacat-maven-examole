@@ -1,1 +1,1 @@
-# tomacat-maven-examole
+# tomacat-maven-example
